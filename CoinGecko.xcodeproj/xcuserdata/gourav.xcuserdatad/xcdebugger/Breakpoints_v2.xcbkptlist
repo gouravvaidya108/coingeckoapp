@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8DD321EF-1AA9-4D5B-97F0-7CCC198AA285"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C815AEA-9AE7-45B9-A627-85F3BC8BFDCD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoinGecko/Utilites/CommonEnums/APIConstant.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "cryptocurrencyListURL(withPage:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6C815AEA-9AE7-45B9-A627-85F3BC8BFDCD - b8880c83550781eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static CoinGecko.APIConstant.cryptocurrencyListURL(withPage: Swift.Int) -&gt; Swift.String"
+                  moduleName = "CoinGecko"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gourav/Work/SwiftUi/CoinGecko/CoinGecko/Utilites/CommonEnums/APIConstant.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "6C815AEA-9AE7-45B9-A627-85F3BC8BFDCD - b8880c83550781eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static CoinGecko.APIConstant.cryptocurrencyListURL(withPage: Swift.Int) -&gt; Swift.String"
+                  moduleName = "CoinGecko"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gourav/Work/SwiftUi/CoinGecko/CoinGecko/Utilites/CommonEnums/APIConstant.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "6C815AEA-9AE7-45B9-A627-85F3BC8BFDCD - b8880c83550781eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static CoinGecko.APIConstant.cryptocurrencyListURL(withPage: Swift.Int) -&gt; Swift.String"
+                  moduleName = "CoinGecko"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gourav/Work/SwiftUi/CoinGecko/CoinGecko/Utilites/CommonEnums/APIConstant.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "376">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37B4CD0B-8DE2-42E3-AEFC-275F5F608D66"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoinGecko/Core/Components/CoinRowView/CoinRowView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A71087D8-E940-42EF-9750-54AFA3F2E0A9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoinGecko/Core/Home/ViewModels/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "updateList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

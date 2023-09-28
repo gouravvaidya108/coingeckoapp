@@ -1,0 +1,31 @@
+//
+//  Localization file
+//  CoinGecko
+//
+//  Created by Gourav on 23.09.2023.
+//
+
+"searchText" = "Search by name or symbol";
+"coinGecko" = "CoinGecko";
+"price" = "Price";
+"1h" = "1h";
+"24h" = "24h";
+"7d" = "7d";
+"24hVolume" = "24h Volume";
+"marketCap" = "Mkt Cap";
+"totalVolume" = "Total Volume";
+"last7Days" = "Last 7 Days";
+"coin" = "Coin";
+"24hHigh" = "24h High";
+"24hLow" = "24h Low";
+"24hPriceChange" = "24h Price Change";
+"24hMarketCapChange" = "24h Market Cap Change";
+"additionalDetails" = "Additional Details";
+"overview" = "Overview";
+"rank" = "Rank";
+"volume" = "Volume";
+"mktCap" = "Market Capitalization";
+"loading" = "Loading...";
+"circulatingSupply" = "Circulating supply";
+"totalSupply" = "Total supply";
+"maxSupply" = "Max supply";
